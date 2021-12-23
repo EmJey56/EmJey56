@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmJey56
 - 👀 I’m interested in Coding, Games, Swimming ,and movies.
-- 🌱 I’m currently learning Java's farameworks and working as a back-end developer.
+- 🌱 I’m currently working as a Java developer and learning Front-end developing.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: You can contact me on Instagram and Telegram.
