@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EmJey56
-- 👀 I’m interested in Coding, Games, Swimming ,and movies.
-- 🌱 I’m currently working as a Java developer and learning Flutter developing.
+- 👋 Hi, I’m Mohammad Javad and my nickname is EmJey.
+- 👀 I’m a passionate Software Engineer.
+- 🌱 I’m currently working as a .Net developer and learning Flutter developing.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me: You can contact me on Instagram and Telegram.
+- 📫 How to reach me: You can contact me on my social media.
